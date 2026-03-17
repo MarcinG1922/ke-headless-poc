@@ -9,26 +9,27 @@ export default function Footer() {
             <h4 className="footer-title">Kaczmarek Electric</h4>
             <ul className="footer-links">
               <li><Link href="#">O firmie</Link></li>
-              <li><Link href="#">Oddziały</Link></li>
+              <li><Link href="#">Oddziały (Sieć Sprzedaży)</Link></li>
               <li><Link href="#">Kariera</Link></li>
-              <li><Link href="#">Kontakt</Link></li>
+              <li><Link href="#">Kontakt z Centralą</Link></li>
             </ul>
           </div>
           <div>
-            <h4 className="footer-title">Oferta</h4>
+            <h4 className="footer-title">Oferta Specjalistyczna</h4>
             <ul className="footer-links">
               <li><Link href="#">Elektroinstalatorzy</Link></li>
-              <li><Link href="#">Przemysł</Link></li>
-              <li><Link href="#">Energetyka i fotowoltaika</Link></li>
-              <li><Link href="#">Oświetlenie</Link></li>
+              <li><Link href="#">Przemysł i Automatyka</Link></li>
+              <li><Link href="#">Energetyka i Fotowoltaika</Link></li>
+              <li><Link href="#">Oświetlenie profesjonalne</Link></li>
             </ul>
           </div>
           <div>
-            <h4 className="footer-title">Sklep B2B</h4>
+            <h4 className="footer-title">Strefa Wiedzy</h4>
             <ul className="footer-links">
-              <li><Link href="#">Platforma handlowa</Link></li>
-              <li><Link href="#">Promocje</Link></li>
-              <li><Link href="#">Regulamin</Link></li>
+              <li><Link href="#">Blog Ekspercki</Link></li>
+              <li><Link href="#">Webinary i Szkolenia</Link></li>
+              <li><Link href="#">Baza Wiedzy</Link></li>
+              <li><Link href="#">Case Studies</Link></li>
             </ul>
           </div>
         </div>
